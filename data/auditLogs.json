@@ -1,0 +1,22 @@
+[
+  {
+    "id": "LOG-001",
+    "timestamp": "2026-11-06T02:51:44.107Z",
+    "user": "SYSTEM",
+    "role": "System",
+    "action": "Seeded demo data",
+    "module": "System",
+    "description": "Demo / Simulation Data loaded",
+    "refs": {}
+  },
+  {
+    "id": "LOG-002",
+    "timestamp": "2026-11-06T02:51:44.188Z",
+    "user": "Admin",
+    "role": "Admin",
+    "action": "Demo data reset",
+    "module": "System",
+    "description": "All JSON data files were reset to Demo / Simulation Data",
+    "refs": {}
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "REQ-001",
+    "incidentId": "INC-001",
+    "locationId": "pallikaranai",
+    "priority": "High",
+    "peopleAffected": 400,
+    "waterRequired": 1200,
+    "foodRequired": 800,
+    "medicalKitsRequired": 40,
+    "rescuePersonnelRequired": 0,
+    "specialRequirements": "Dry rations for elderly",
+    "status": "Pending",
+    "createdAt": "2026-11-06T01:25:46.543Z",
+    "simulation": true
+  },
+  {
+    "id": "REQ-002",
+    "incidentId": "INC-002",
+    "locationId": "guindy",
+    "priority": "Critical",
+    "peopleAffected": 12,
+    "waterRequired": 0,
+    "foodRequired": 0,
+    "medicalKitsRequired": 20,
+    "rescuePersonnelRequired": 6,
+    "specialRequirements": "Trauma response, hospital transfer",
+    "teamType": "Medical",
+    "status": "Pending",
+    "createdAt": "2026-11-06T02:10:46.543Z",
+    "simulation": true
+  },
+  {
+    "id": "REQ-003",
+    "incidentId": "INC-001",
+    "locationId": "velachery",
+    "priority": "Low",
+    "peopleAffected": 60,
+    "waterRequired": 300,
+    "foodRequired": 0,
+    "medicalKitsRequired": 0,
+    "rescuePersonnelRequired": 0,
+    "specialRequirements": "General supply request",
+    "status": "Pending",
+    "createdAt": "2026-11-06T02:25:46.543Z",
+    "simulation": true
+  }
+]

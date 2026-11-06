@@ -1,0 +1,50 @@
+[
+  {
+    "id": "H-001",
+    "name": "North Chennai General Hospital (Demo)",
+    "nodeId": "royapuram",
+    "latitude": 13.116,
+    "longitude": 80.298,
+    "simulation": true
+  },
+  {
+    "id": "H-002",
+    "name": "Adyar Coastal Hospital (Demo)",
+    "nodeId": "adyar",
+    "latitude": 13.0097,
+    "longitude": 80.26,
+    "simulation": true
+  },
+  {
+    "id": "H-003",
+    "name": "Guindy Trauma Centre (Demo)",
+    "nodeId": "guindy",
+    "latitude": 13.0097,
+    "longitude": 80.2236,
+    "simulation": true
+  },
+  {
+    "id": "H-004",
+    "name": "Anna Nagar Medical Centre (Demo)",
+    "nodeId": "annanagar",
+    "latitude": 13.088000000000001,
+    "longitude": 80.2131,
+    "simulation": true
+  },
+  {
+    "id": "H-005",
+    "name": "Tambaram Community Hospital (Demo)",
+    "nodeId": "tambaram",
+    "latitude": 12.9279,
+    "longitude": 80.103,
+    "simulation": true
+  },
+  {
+    "id": "H-006",
+    "name": "Velachery Flood Response Clinic (Demo)",
+    "nodeId": "velachery",
+    "latitude": 12.9845,
+    "longitude": 80.221,
+    "simulation": true
+  }
+]

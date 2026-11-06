@@ -1,0 +1,134 @@
+[
+  {
+    "id": "velachery",
+    "name": "Velachery",
+    "lat": 12.9815,
+    "lng": 80.218
+  },
+  {
+    "id": "pallikaranai",
+    "name": "Pallikaranai",
+    "lat": 12.93,
+    "lng": 80.215
+  },
+  {
+    "id": "adyar",
+    "name": "Adyar",
+    "lat": 13.0067,
+    "lng": 80.257
+  },
+  {
+    "id": "guindy",
+    "name": "Guindy",
+    "lat": 13.0067,
+    "lng": 80.2206
+  },
+  {
+    "id": "saidapet",
+    "name": "Saidapet",
+    "lat": 13.0213,
+    "lng": 80.2231
+  },
+  {
+    "id": "mambalam",
+    "name": "Mambalam",
+    "lat": 13.0368,
+    "lng": 80.2176
+  },
+  {
+    "id": "nungambakkam",
+    "name": "Nungambakkam",
+    "lat": 13.0569,
+    "lng": 80.2425
+  },
+  {
+    "id": "meenambakkam",
+    "name": "Meenambakkam",
+    "lat": 12.9941,
+    "lng": 80.1709
+  },
+  {
+    "id": "tnagar",
+    "name": "T. Nagar",
+    "lat": 13.0418,
+    "lng": 80.2341
+  },
+  {
+    "id": "annanagar",
+    "name": "Anna Nagar",
+    "lat": 13.085,
+    "lng": 80.2101
+  },
+  {
+    "id": "perambur",
+    "name": "Perambur",
+    "lat": 13.1186,
+    "lng": 80.2455
+  },
+  {
+    "id": "royapuram",
+    "name": "Royapuram",
+    "lat": 13.113,
+    "lng": 80.295
+  },
+  {
+    "id": "tondiarpet",
+    "name": "Tondiarpet",
+    "lat": 13.126,
+    "lng": 80.288
+  },
+  {
+    "id": "marina",
+    "name": "Marina",
+    "lat": 13.05,
+    "lng": 80.2824
+  },
+  {
+    "id": "santhome",
+    "name": "Santhome",
+    "lat": 13.033,
+    "lng": 80.279
+  },
+  {
+    "id": "besantnagar",
+    "name": "Besant Nagar",
+    "lat": 12.9992,
+    "lng": 80.2667
+  },
+  {
+    "id": "thiruvanmiyur",
+    "name": "Thiruvanmiyur",
+    "lat": 12.983,
+    "lng": 80.2594
+  },
+  {
+    "id": "sholinganallur",
+    "name": "Sholinganallur",
+    "lat": 12.901,
+    "lng": 80.2279
+  },
+  {
+    "id": "porur",
+    "name": "Porur",
+    "lat": 13.0382,
+    "lng": 80.1565
+  },
+  {
+    "id": "ambattur",
+    "name": "Ambattur",
+    "lat": 13.1143,
+    "lng": 80.1548
+  },
+  {
+    "id": "tambaram",
+    "name": "Tambaram",
+    "lat": 12.9249,
+    "lng": 80.1
+  },
+  {
+    "id": "mudichur",
+    "name": "Mudichur",
+    "lat": 12.904,
+    "lng": 80.075
+  }
+]

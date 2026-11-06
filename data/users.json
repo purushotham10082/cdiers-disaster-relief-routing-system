@@ -1,0 +1,30 @@
+[
+  {
+    "id": "USR-001",
+    "name": "Admin",
+    "email": "admin@cdiers.local",
+    "role": "Admin",
+    "passwordHash": "$2a$10$xTnRZia6gBiILZo1xEH6GOLbsSDxcHKIamTNmtZs4BjLM7knELySq"
+  },
+  {
+    "id": "USR-002",
+    "name": "Command Operator",
+    "email": "operator@cdiers.local",
+    "role": "Command Center Operator",
+    "passwordHash": "$2a$10$brXHgDz174owwsed5ouAkOtGcnEPsuD1c8WuaJwE8u1bKUW0k4xXq"
+  },
+  {
+    "id": "USR-003",
+    "name": "Dispatcher",
+    "email": "dispatcher@cdiers.local",
+    "role": "Dispatcher",
+    "passwordHash": "$2a$10$.cVqL/FNw2mG814vqGICjO11rpm7IPyyLKBbXR7T9s6xuxDiOIScS"
+  },
+  {
+    "id": "USR-004",
+    "name": "Field Responder",
+    "email": "responder@cdiers.local",
+    "role": "Field Responder",
+    "passwordHash": "$2a$10$F9l4Gy58mexpVbETc7xs0.b/OG1Qrcwp0amOxnWQzirJWqajtlrKy"
+  }
+]

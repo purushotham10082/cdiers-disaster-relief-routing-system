@@ -1,0 +1,34 @@
+[
+  {
+    "id": "WH-001",
+    "name": "Central Warehouse",
+    "nodeId": "guindy",
+    "latitude": 13.0067,
+    "longitude": 80.2206,
+    "simulation": true
+  },
+  {
+    "id": "WH-002",
+    "name": "North Chennai Warehouse",
+    "nodeId": "tondiarpet",
+    "latitude": 13.126,
+    "longitude": 80.288,
+    "simulation": true
+  },
+  {
+    "id": "WH-003",
+    "name": "South Chennai Warehouse",
+    "nodeId": "tambaram",
+    "latitude": 12.9249,
+    "longitude": 80.1,
+    "simulation": true
+  },
+  {
+    "id": "WH-004",
+    "name": "Emergency Relief Store",
+    "nodeId": "annanagar",
+    "latitude": 13.085,
+    "longitude": 80.2101,
+    "simulation": true
+  }
+]

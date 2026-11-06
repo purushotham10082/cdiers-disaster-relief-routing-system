@@ -1,0 +1,72 @@
+[
+  {
+    "id": "T-001",
+    "name": "Medical Response Alpha",
+    "type": "Medical",
+    "personnel": 12,
+    "nodeId": "adyar",
+    "availability": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "T-002",
+    "name": "Fire & Rescue Unit 1",
+    "type": "Fire & Rescue",
+    "personnel": 18,
+    "nodeId": "guindy",
+    "availability": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "T-003",
+    "name": "Flood Rescue South",
+    "type": "Flood Rescue",
+    "personnel": 15,
+    "nodeId": "saidapet",
+    "availability": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "T-004",
+    "name": "Flood Rescue North",
+    "type": "Flood Rescue",
+    "personnel": 14,
+    "nodeId": "tondiarpet",
+    "availability": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "T-005",
+    "name": "Search & Rescue Unit",
+    "type": "Search & Rescue",
+    "personnel": 20,
+    "nodeId": "annanagar",
+    "availability": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "T-006",
+    "name": "Emergency Engineering Crew",
+    "type": "Emergency Engineering",
+    "personnel": 10,
+    "nodeId": "mambalam",
+    "availability": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "T-007",
+    "name": "Medical Response Bravo",
+    "type": "Medical",
+    "personnel": 8,
+    "nodeId": "tambaram",
+    "availability": "Available",
+    "assignedMission": null,
+    "simulation": true
+  }
+]

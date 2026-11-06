@@ -1,0 +1,56 @@
+[
+  {
+    "id": "water",
+    "name": "Drinking Water (1 L)",
+    "unit": "bottles",
+    "weightKg": 1
+  },
+  {
+    "id": "food",
+    "name": "Food Packets",
+    "unit": "packets",
+    "weightKg": 0.5
+  },
+  {
+    "id": "medicalKits",
+    "name": "Medical Kits",
+    "unit": "kits",
+    "weightKg": 2
+  },
+  {
+    "id": "blankets",
+    "name": "Blankets",
+    "unit": "pcs",
+    "weightKg": 1.2
+  },
+  {
+    "id": "rescueEquipment",
+    "name": "Rescue Equipment",
+    "unit": "sets",
+    "weightKg": 8
+  },
+  {
+    "id": "firstAid",
+    "name": "First Aid Kits",
+    "unit": "kits",
+    "weightKg": 1
+  },
+  {
+    "id": "lights",
+    "name": "Emergency Lights",
+    "unit": "pcs",
+    "weightKg": 1.5
+  },
+  {
+    "id": "generators",
+    "name": "Power Generators",
+    "unit": "units",
+    "weightKg": 25
+  },
+  {
+    "id": "lifeJackets",
+    "name": "Life Jackets",
+    "unit": "pcs",
+    "weightKg": 1.5
+  }
+]

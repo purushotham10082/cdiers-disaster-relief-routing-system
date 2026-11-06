@@ -1,0 +1,66 @@
+[
+  {
+    "id": "INC-001",
+    "disasterType": "Extreme Rainfall",
+    "locationId": "pallikaranai",
+    "location": "Pallikaranai",
+    "latitude": 12.93,
+    "longitude": 80.215,
+    "severity": "High",
+    "description": "Waterlogging reported on arterial roads (demo risk profile).",
+    "reportedAt": "2026-11-06T01:10:46.542Z",
+    "status": "Active",
+    "simulation": true,
+    "evacuation": null,
+    "zone": {
+      "radiusKm": 4,
+      "centerNodeId": "pallikaranai",
+      "nodeIds": [
+        "pallikaranai",
+        "sholinganallur"
+      ],
+      "roadIds": []
+    }
+  },
+  {
+    "id": "INC-002",
+    "disasterType": "Major Road Accident",
+    "locationId": "guindy",
+    "location": "Guindy",
+    "latitude": 13.0067,
+    "longitude": 80.2206,
+    "severity": "Medium",
+    "description": "Multi-vehicle collision near industrial estate (simulation).",
+    "reportedAt": "2026-11-06T02:05:46.543Z",
+    "status": "Verified",
+    "simulation": true,
+    "evacuation": null,
+    "zone": {
+      "radiusKm": 3,
+      "centerNodeId": "guindy",
+      "nodeIds": [
+        "velachery",
+        "guindy",
+        "saidapet"
+      ],
+      "roadIds": [
+        "R-009"
+      ]
+    }
+  },
+  {
+    "id": "INC-003",
+    "disasterType": "Fire",
+    "locationId": "ambattur",
+    "location": "Ambattur",
+    "latitude": 13.1143,
+    "longitude": 80.1548,
+    "severity": "Low",
+    "description": "Warehouse fire contained (simulation).",
+    "reportedAt": "2026-11-05T21:45:46.543Z",
+    "status": "Resolved",
+    "simulation": true,
+    "evacuation": null,
+    "zone": null
+  }
+]

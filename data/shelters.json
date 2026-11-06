@@ -1,0 +1,74 @@
+[
+  {
+    "id": "S-001",
+    "name": "Besant Nagar Community Hall (Demo)",
+    "nodeId": "besantnagar",
+    "latitude": 12.9962,
+    "longitude": 80.2647,
+    "simulation": true
+  },
+  {
+    "id": "S-002",
+    "name": "Velachery School Shelter (Demo)",
+    "nodeId": "velachery",
+    "latitude": 12.9785,
+    "longitude": 80.21600000000001,
+    "simulation": true
+  },
+  {
+    "id": "S-003",
+    "name": "Pallikaranai Relief Camp (Demo)",
+    "nodeId": "pallikaranai",
+    "latitude": 12.927,
+    "longitude": 80.21300000000001,
+    "simulation": true
+  },
+  {
+    "id": "S-004",
+    "name": "Tondiarpet Hall (Demo)",
+    "nodeId": "tondiarpet",
+    "latitude": 13.123,
+    "longitude": 80.286,
+    "simulation": true
+  },
+  {
+    "id": "S-005",
+    "name": "Anna Nagar Indoor Stadium (Demo)",
+    "nodeId": "annanagar",
+    "latitude": 13.082,
+    "longitude": 80.2081,
+    "simulation": true
+  },
+  {
+    "id": "S-006",
+    "name": "Tambaram Relief Camp (Demo)",
+    "nodeId": "tambaram",
+    "latitude": 12.921899999999999,
+    "longitude": 80.098,
+    "simulation": true
+  },
+  {
+    "id": "S-007",
+    "name": "Thiruvanmiyur Hall (Demo)",
+    "nodeId": "thiruvanmiyur",
+    "latitude": 12.98,
+    "longitude": 80.2574,
+    "simulation": true
+  },
+  {
+    "id": "S-008",
+    "name": "Saidapet Community Centre (Demo)",
+    "nodeId": "saidapet",
+    "latitude": 13.0183,
+    "longitude": 80.2211,
+    "simulation": true
+  },
+  {
+    "id": "S-009",
+    "name": "Meenambakkam Hall (Demo)",
+    "nodeId": "meenambakkam",
+    "latitude": 12.9911,
+    "longitude": 80.16890000000001,
+    "simulation": true
+  }
+]

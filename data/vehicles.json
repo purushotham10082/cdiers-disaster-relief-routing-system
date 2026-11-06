@@ -1,0 +1,142 @@
+[
+  {
+    "id": "V-001",
+    "type": "Relief Truck",
+    "registration": "TN-01-DM-1001",
+    "capacityKg": 4000,
+    "nodeId": "guindy",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-002",
+    "type": "Relief Truck",
+    "registration": "TN-01-DM-1002",
+    "capacityKg": 4000,
+    "nodeId": "tondiarpet",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-003",
+    "type": "Relief Truck",
+    "registration": "TN-01-DM-1003",
+    "capacityKg": 3500,
+    "nodeId": "tambaram",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-004",
+    "type": "Water Tanker",
+    "registration": "TN-01-DM-1004",
+    "capacityKg": 6000,
+    "nodeId": "guindy",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-005",
+    "type": "Water Tanker",
+    "registration": "TN-01-DM-1005",
+    "capacityKg": 6000,
+    "nodeId": "annanagar",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-006",
+    "type": "Ambulance",
+    "registration": "TN-01-DM-1006",
+    "capacityKg": 300,
+    "nodeId": "adyar",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-007",
+    "type": "Ambulance",
+    "registration": "TN-01-DM-1007",
+    "capacityKg": 300,
+    "nodeId": "perambur",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-008",
+    "type": "Rescue Van",
+    "registration": "TN-01-DM-1008",
+    "capacityKg": 800,
+    "nodeId": "saidapet",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-009",
+    "type": "Fire Engine",
+    "registration": "TN-01-DM-1009",
+    "capacityKg": 600,
+    "nodeId": "guindy",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-010",
+    "type": "Emergency Response Vehicle",
+    "registration": "TN-01-DM-1010",
+    "capacityKg": 700,
+    "nodeId": "nungambakkam",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-011",
+    "type": "Relief Truck",
+    "registration": "TN-01-DM-1011",
+    "capacityKg": 4000,
+    "nodeId": "annanagar",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-012",
+    "type": "Relief Truck",
+    "registration": "TN-01-DM-1012",
+    "capacityKg": 3000,
+    "nodeId": "tambaram",
+    "status": "Maintenance",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-013",
+    "type": "Relief Truck",
+    "registration": "TN-01-DM-1013",
+    "capacityKg": 4000,
+    "nodeId": "perambur",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  },
+  {
+    "id": "V-014",
+    "type": "Relief Truck",
+    "registration": "TN-01-DM-1014",
+    "capacityKg": 3500,
+    "nodeId": "mambalam",
+    "status": "Available",
+    "assignedMission": null,
+    "simulation": true
+  }
+]

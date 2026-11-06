@@ -1,0 +1,14 @@
+{
+  "name": "cdiers",
+  "version": "1.0.0",
+  "description": "Chennai Disaster Intelligence & Emergency Relief Routing System (database-free prototype)",
+  "private": true,
+  "scripts": {
+    "setup": "npm install && npm --prefix server install && npm --prefix client install",
+    "dev": "concurrently -k -n API,WEB -c blue,green \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "reset-data": "npm --prefix server run seed"
+  },
+  "devDependencies": { "concurrently": "^9.0.1" }
+}
